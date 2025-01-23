@@ -1,26 +1,34 @@
 
 
-# Hello, GitHub! 👋
+Hello, GitHub! 👋
 
-I'm Larry, a Brigham Young University-Idaho student pursuing a Software Development degree. Welcome to my GitHub profile!
+I'm Larry, a Software Development student at Brigham Young University-Idaho. Welcome to my GitHub profile!
 
-## About Me  
-- 🎓 I'm currently learning advanced concepts in software development, including web development, mobile apps, and backend systems.  
-- 🎯 My goals are to build innovative software solutions, contribute to open-source projects, and grow as a developer.  
-- 💬 Ask me about anything related to software development or algorithms, clean code, or frameworks.  
+## About Me
+🎓 I’m pursuing a degree in Software Development, focusing on full-stack development, web apps, and responsive websites.
+🎯 My goal is to create meaningful, user-friendly applications and contribute to innovative projects.
+💡 I’m always eager to learn new technologies and collaborate on open-source initiatives.
 
-## Technologies and Tools  
-**Proficient in:**  
-- JavaScript, Python, HTML/CSS, SQL  
-- React, Node.js]  
+## Skills and Technologies Proficient in:
+Programming Languages: Python, JavaScript, HTML, CSS
+Tools and Frameworks:  React, Node.js, MySQL
+Version Control: Git, GitHub
 
-**Skills:**  
-- Problem-solving, team collaboration, and agile development practices  
-- Software design and testing  
+## Skills:
+Frontend and Backend Development
+Problem Solving and Debugging
+Team Collaboration and Agile Practices
 
-## Let's Connect!  
-- 🌐 www.linkedin.com/in/larry-copeland 
+## Projects
+Here are a few projects I’ve worked on:
 
-Feel free to explore my repositories, and don't hesitate to reach out. Happy coding! 🚀  
+[Project Name](GitHub Repository Link): A brief description of the project, its purpose, and the technologies used.
+[Project Name](GitHub Repository Link): Another project description with key highlights.
+
+## Let’s Connect!
+🌐 www.linkedin.com/in/larry-copeland 
+
+Explore my repositories, check out my projects, and connect with me. Happy coding! 🚀
+
 
 
