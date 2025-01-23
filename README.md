@@ -22,8 +22,13 @@ Team Collaboration and Agile Practices
 ## Projects
 Here are a few projects I’ve worked on:
 
-[Project Name](GitHub Repository Link): A brief description of the project, its purpose, and the technologies used.
-[Project Name](GitHub Repository Link): Another project description with key highlights.
+## The Heroic V  
+https://github.com/CopelandCodes/The-Heroic-V: This game was an online collaboration using the Python Arcade library to build a 2D questing world with trivia questions to move between levels. This team collaboration was constructed for a Python class final.
+## Swagger Rental Cars 
+https://github.com/CopelandCodes/SwaggerRentalCars: This web app is built with JavaScript and focuses on backend functions for a web app. The app uses authentication and permissions to control access to employee and customer access to reserve and verify reservations for a rental car company.
+## Tourist Attractions Listings Site
+https://github.com/CopelandCodes/Tourist-Attractions-: This web page uses a third-party API to populate the local tourist attractions for any destination worldwide. Each user search retrieves and displays the results. This project was built as final project for a class in web development.
+
 
 ## Let’s Connect!
 🌐 www.linkedin.com/in/larry-copeland 
