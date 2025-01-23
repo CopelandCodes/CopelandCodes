@@ -1,24 +1,26 @@
 
-Larry Copeland
 
-Hello, GitHub! 👋
+# Hello, GitHub! 👋
 
-I'm Larry, a student at Brigham Young University-Idaho interested in <Your Profession/Interests such as: computer science, data science, web development, machine learning, ...>. Welcome to my GitHub profile!
+I'm Larry, a Brigham Young University-Idaho student pursuing a Software Development degree. Welcome to my GitHub profile!
 
-## About Me
+## About Me  
+- 🎓 I'm currently learning advanced concepts in software development, including web development, mobile apps, and backend systems.  
+- 🎯 My goals are to build innovative software solutions, contribute to open-source projects, and grow as a developer.  
+- 💬 Ask me about anything related to software development or algorithms, clean code, or frameworks.  
 
-- I'm currently learning ...
-- My goals are to ...
-- Ask me about ...
+## Technologies and Tools  
+**Proficient in:**  
+- JavaScript, Python, HTML/CSS, SQL  
+- React, Node.js]  
 
-## Technologies and Tools
+**Skills:**  
+- Problem-solving, team collaboration, and agile development practices  
+- Software design and testing  
 
-- Proficient in: <List of Programming Languages or Technologies>
-- Skills: <Any Other Skills or Tools You Want to Highlight>
+## Let's Connect!  
+- 🌐 www.linkedin.com/in/larry-copeland 
 
-## Let's Connect!
+Feel free to explore my repositories, and don't hesitate to reach out. Happy coding! 🚀  
 
-- Here is my [LinkedIn](Your LinkedIn Profile Link) profile
-- Here is my [Twitter](Your Twitter Profile Link) profile
 
-Feel free to explore my repositories, and don't hesitate to reach out. Happy coding! 🚀
